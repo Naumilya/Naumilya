@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fanadape@gmail.com**
 
-- 📄 Know about my experiences [https://sergiev-posad.hh.ru/resume/0be7779dff0c517aef0039ed1f6538466f7773](https://sergiev-posad.hh.ru/resume/0be7779dff0c517aef0039ed1f6538466f7773)
+- 📄 Know about my experiences [hh.ru](https://sergiev-posad.hh.ru/resume/0be7779dff0c517aef0039ed1f6538466f7773)
 
 - ⚡ Fun fact **Я люблю музыку**
 
