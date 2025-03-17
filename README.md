@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.svg" width="100%" alt="naumilya" />
+<!-- <img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.svg" width="100%" alt="naumilya" /> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naumilya" alt="naumilya" /></a> </p>
 
