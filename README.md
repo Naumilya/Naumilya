@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" width="100%" heigt="330px" style="object-fit: cover;" alt="naumilya" />
+<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" width="100%" height="330px" style="object-fit: cover;" alt="naumilya" />
 
 <h1>Hi, I`m Ilya - Frontend dev 🛠</h1>
 
