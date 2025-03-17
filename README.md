@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" object-fit="cover" width="100%" height="300px" alt="naumilya" />
+<h1>Hi, I`m Ilya - Frontend dev 🛠</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naumilya" alt="naumilya" /></a> </p>
+<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" object-fit="cover" width="100%" height="300px" alt="naumilya" />
 
 - 🔭 I’m currently working on [Skillstaff](https://skillstaff.ru/)
 
