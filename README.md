@@ -1,4 +1,43 @@
-<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" width="100%" height="330px" style="object-fit: cover;" alt="naumilya" />
+# SYSTEM OVERVIEW
+
+**Wallpaper** | **Terminal** | **Config**  
+--------------------------------------------
+
+### TIME: 19:07:15  
+### DATE: 26/03/25  
+### DAY: [WED]  
+
+PROCESS: [79%] ████████████████-------  
+VOLUME: [67%] ██████████-------------  
+
+STATUS: NOW PLAYING >>>  
+TITLE: See The Sky  
+ARTIST: Etherwood, Thomas Oliver  
+DURATION: 0:00 // 5:06  
+TYPE: MUSIC  
+
+---
+
+### RESOLUTION:
+1920x1080  
+
+CURSOR-X: 246.00  
+CURSOR-Y: 1690.00  
+
+---
+
+SCREENSAVER <> [WALLPAPER]  
+CONFIGURATION:
+- ID: 3086899555  
+- SIZE: 3840x2160  
+- DEVICE TYPE: DESKTOP  
+- ORIENTATION: LANDSCAPE  
+- FPS: 24  
+
+---
+
+### NEXT YEAR COUNT-UP:
+84 DAYS PASSED
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naumov Ilya
 ===================================================================================================================================
