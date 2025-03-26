@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e75ae6bf-9b9b-424a-8256-052c2d96e65d)<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" width="100%" height="330px" style="object-fit: cover;" alt="naumilya" />
+<img src="https://raw.githubusercontent.com/Naumilya/Naumilya/refs/heads/main/image.gif" width="100%" height="330px" style="object-fit: cover;" alt="naumilya" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naumov Ilya
 ===================================================================================================================================
